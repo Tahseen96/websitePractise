@@ -4,7 +4,7 @@ html{
 body{
     background-color: darkgray;
     background-image:url(/Images/background-adare-restaurant.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
     background-size: cover;
 }
